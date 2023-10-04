@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Activity Kedua</string>
+    <string name="button">\n</string>
+    <string name="button_main">Kirim</string>
+    <string name="text_header">Message Received\n</string>
+    <string name="editText_main">Write Your Message</string>
+    <string name="button_second">Reply</string>
+    <string name="editText_second">Enter Your Reply</string>
+    <string name="text_header_reply">Reply Received</string>
+</resources>
